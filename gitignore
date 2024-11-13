@@ -1,0 +1,48 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# React Native
+*.log
+*.lock
+*.iml
+.vscode/
+
+# iOS
+ios/Pods/
+ios/.generated/
+ios/build/
+ios/DerivedData/
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+
+# Expo
+.expo/
+.expo-shared/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# React Native packager
+metro-cache/
+jest-coverage/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
